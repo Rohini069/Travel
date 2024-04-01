@@ -1,0 +1,24 @@
+.maincontent {
+    background-image: url("https://plus.unsplash.com/premium_photo-1683888229109-17cb0975af20?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2NhcGVzfGVufDB8fDB8fHww");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.maincontent .form-select {
+    border-radius: 50px;
+}
+
+.col-auto .form-control {
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+
+.btn:hover {
+    color: black;
+}

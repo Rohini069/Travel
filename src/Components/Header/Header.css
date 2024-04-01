@@ -1,0 +1,65 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: white !important;
+}
+
+.navbar-nav:first-child {
+    margin-left: 5vw;
+    gap: 5vw;
+}
+
+.navbar-nav {
+    font-size: 1.5rem;
+    font-weight: 400;
+
+}
+
+.navbar-brand {
+    margin-left: 3vw;
+    margin-right: 1vw;
+    padding: 10px 20px;
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+.navbar-brand:hover {
+    background-color: #00b7ff;
+    color: white;
+    border-radius: 10px;
+    transition: all ease 0.3s;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: black;
+}
+
+.nav-link:hover {
+    background-color: #00b7ff;
+    color: white !important;
+    border-radius: 10px;
+    transition: all ease 0.3s;
+}
+
+.bi {
+    font-size: 1.5rem;
+    margin-right: 0.7vw;
+
+}
+
+.btn {
+    background-color: #00b7ff;
+    border: 1px solid #00b7ff;
+    
+    color: white;
+}
+
+.btn:hover {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.d-flex {
+    margin-right: 8vw;
+    margin-left: 0;
+}
